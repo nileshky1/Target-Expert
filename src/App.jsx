@@ -27,7 +27,7 @@ function App() {
       <div>
         <p className="flex justify-center text-lg m-6">
           Made with ❤ by &nbsp;
-          <a href="https://codeforces.com/profile/coder_ravan" target="_blank">Coder_Ravan</a>{" "}
+          <a href="https://codeforces.com/profile/nilesh.ky" target="_blank">nilesh.ky</a>{" "}
         </p>
       </div>
     </>
